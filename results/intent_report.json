@@ -1,0 +1,1512 @@
+{
+  "what_you_mean": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5,
+    "confused_with": {
+      "bot_challenge": 4,
+      "deny": 1
+    }
+  },
+  "mental_health_perspective": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1,
+    "confused_with": {
+      "greet": 1
+    }
+  },
+  "high_risk": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2,
+    "confused_with": {
+      "affirm": 1,
+      "bot_challenge": 1
+    }
+  },
+  "mental_health_plan": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1,
+    "confused_with": {
+      "bot_challenge": 1
+    }
+  },
+  "user_joking": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 10,
+    "confused_with": {
+      "mood_great": 8,
+      "mood_unhappy": 1,
+      "bot_challenge": 1
+    }
+  },
+  "good": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 126,
+    "confused_with": {
+      "bot_challenge": 31,
+      "mood_great": 28,
+      "mood_unhappy": 21
+    }
+  },
+  "smalltalk_agent_birth_date": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 7,
+    "confused_with": {
+      "goodbye": 3,
+      "affirm": 2,
+      "deny": 1
+    }
+  },
+  "thank": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5,
+    "confused_with": {
+      "deny": 5
+    }
+  },
+  "affirm": {
+    "precision": 0.18932038834951456,
+    "recall": 0.5,
+    "f1-score": 0.27464788732394363,
+    "support": 78,
+    "confused_with": {
+      "mood_great": 15,
+      "deny": 10
+    }
+  },
+  "author": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5,
+    "confused_with": {
+      "goodbye": 2,
+      "deny": 1,
+      "affirm": 1
+    }
+  },
+  "mood_fear": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 52,
+    "confused_with": {
+      "mood_unhappy": 12,
+      "mood_great": 10,
+      "deny": 8
+    }
+  },
+  "detect_corona": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 7,
+    "confused_with": {
+      "affirm": 3,
+      "greet": 3,
+      "deny": 1
+    }
+  },
+  "frontline": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3,
+    "confused_with": {
+      "mood_great": 2,
+      "bot_challenge": 1
+    }
+  },
+  "depression": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3,
+    "confused_with": {
+      "mood_great": 2,
+      "greet": 1
+    }
+  },
+  "send_email": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4,
+    "confused_with": {
+      "mood_unhappy": 3,
+      "mood_great": 1
+    }
+  },
+  "boredom_problems": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4,
+    "confused_with": {
+      "mood_great": 2,
+      "greet": 1,
+      "goodbye": 1
+    }
+  },
+  "user_hobby_reading": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3,
+    "confused_with": {
+      "deny": 2,
+      "mood_great": 1
+    }
+  },
+  "friendship_problems": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5,
+    "confused_with": {
+      "mood_unhappy": 2,
+      "deny": 1,
+      "affirm": 1
+    }
+  },
+  "inform": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 19,
+    "confused_with": {
+      "bot_challenge": 7,
+      "greet": 5,
+      "affirm": 4
+    }
+  },
+  "mental_illness_no_support": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1,
+    "confused_with": {
+      "deny": 1
+    }
+  },
+  "family_in_danger": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 7,
+    "confused_with": {
+      "mood_unhappy": 3,
+      "bot_challenge": 2,
+      "affirm": 1
+    }
+  },
+  "talk": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 19,
+    "confused_with": {
+      "bot_challenge": 14,
+      "deny": 2,
+      "mood_great": 2
+    }
+  },
+  "financial_problem": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5,
+    "confused_with": {
+      "mood_unhappy": 3,
+      "mood_great": 1,
+      "bot_challenge": 1
+    }
+  },
+  "play_video": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4,
+    "confused_with": {
+      "mood_unhappy": 2,
+      "bot_challenge": 2
+    }
+  },
+  "give_time": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3,
+    "confused_with": {
+      "deny": 1,
+      "greet": 1,
+      "bot_challenge": 1
+    }
+  },
+  "smalltalk_agent_bad": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 27,
+    "confused_with": {
+      "bot_challenge": 18,
+      "mood_unhappy": 4,
+      "deny": 2
+    }
+  },
+  "user_pandemic": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1,
+    "confused_with": {
+      "mood_unhappy": 1
+    }
+  },
+  "sad_things": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 9,
+    "confused_with": {
+      "deny": 4,
+      "mood_unhappy": 3,
+      "mood_great": 1
+    }
+  },
+  "prevent_corona": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5,
+    "confused_with": {
+      "deny": 2,
+      "bot_challenge": 2,
+      "greet": 1
+    }
+  },
+  "dont_care": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 9,
+    "confused_with": {
+      "deny": 5,
+      "mood_unhappy": 3,
+      "bot_challenge": 1
+    }
+  },
+  "faq_space": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 24,
+    "confused_with": {
+      "mood_unhappy": 8,
+      "mood_great": 5,
+      "greet": 4
+    }
+  },
+  "ask_lower_stress": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5,
+    "confused_with": {
+      "mood_unhappy": 2,
+      "bot_challenge": 2,
+      "mood_great": 1
+    }
+  },
+  "user_in_stress": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 13,
+    "confused_with": {
+      "mood_unhappy": 6,
+      "greet": 3,
+      "mood_great": 2
+    }
+  },
+  "user_waiting": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5,
+    "confused_with": {
+      "deny": 2,
+      "mood_great": 1,
+      "mood_unhappy": 1
+    }
+  },
+  "corona_spread": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3,
+    "confused_with": {
+      "mood_unhappy": 3
+    }
+  },
+  "beautiful": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 55,
+    "confused_with": {
+      "bot_challenge": 32,
+      "mood_great": 13,
+      "goodbye": 4
+    }
+  },
+  "mood_depression": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 10,
+    "confused_with": {
+      "mood_great": 4,
+      "deny": 2,
+      "affirm": 1
+    }
+  },
+  "sexual_assault": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 21,
+    "confused_with": {
+      "greet": 9,
+      "mood_great": 3,
+      "deny": 2
+    }
+  },
+  "inquire": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 8,
+    "confused_with": {
+      "bot_challenge": 6,
+      "affirm": 1,
+      "greet": 1
+    }
+  },
+  "goodbye": {
+    "precision": 0.2845528455284553,
+    "recall": 0.813953488372093,
+    "f1-score": 0.42168674698795183,
+    "support": 43,
+    "confused_with": {
+      "greet": 3,
+      "affirm": 2
+    }
+  },
+  "user_hobby_music": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5,
+    "confused_with": {
+      "mood_unhappy": 2,
+      "deny": 1,
+      "greet": 1
+    }
+  },
+  "anxious": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2,
+    "confused_with": {
+      "mood_great": 1,
+      "mood_unhappy": 1
+    }
+  },
+  "health_problem": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 14,
+    "confused_with": {
+      "mood_great": 9,
+      "mood_unhappy": 3,
+      "deny": 1
+    }
+  },
+  "mood_great": {
+    "precision": 0.09473684210526316,
+    "recall": 0.54,
+    "f1-score": 0.1611940298507463,
+    "support": 50,
+    "confused_with": {
+      "mood_unhappy": 11,
+      "greet": 4
+    }
+  },
+  "mental_illness_signs": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2,
+    "confused_with": {
+      "affirm": 1,
+      "greet": 1
+    }
+  },
+  "funny": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 15,
+    "confused_with": {
+      "bot_challenge": 12,
+      "deny": 2,
+      "goodbye": 1
+    }
+  },
+  "smalltalk_agent_acquaintance": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 19,
+    "confused_with": {
+      "bot_challenge": 12,
+      "affirm": 5,
+      "mood_great": 1
+    }
+  },
+  "user_hobby_binge_watcher": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4,
+    "confused_with": {
+      "greet": 4
+    }
+  },
+  "mood_anxiety": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 18,
+    "confused_with": {
+      "mood_great": 5,
+      "affirm": 4,
+      "deny": 3
+    }
+  },
+  "faq_telescopes": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 12,
+    "confused_with": {
+      "affirm": 6,
+      "greet": 3,
+      "goodbye": 2
+    }
+  },
+  "mental_illness_more": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4,
+    "confused_with": {
+      "greet": 3,
+      "bot_challenge": 1
+    }
+  },
+  "user_hobby_writing": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5,
+    "confused_with": {
+      "mood_great": 2,
+      "mood_unhappy": 1,
+      "bot_challenge": 1
+    }
+  },
+  "mental_illness_treatment": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2,
+    "confused_with": {
+      "mood_great": 1,
+      "deny": 1
+    }
+  },
+  "smalltalk_agent_annoying": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 8,
+    "confused_with": {
+      "bot_challenge": 8
+    }
+  },
+  "mental_illness_medication": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1,
+    "confused_with": {
+      "bot_challenge": 1
+    }
+  },
+  "bot_home": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 22,
+    "confused_with": {
+      "greet": 10,
+      "affirm": 7,
+      "deny": 3
+    }
+  },
+  "bot_age": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 16,
+    "confused_with": {
+      "affirm": 6,
+      "bot_challenge": 4,
+      "deny": 2
+    }
+  },
+  "workplace_problems": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1,
+    "confused_with": {
+      "mood_great": 1
+    }
+  },
+  "other_things": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2,
+    "confused_with": {
+      "mood_great": 1,
+      "deny": 1
+    }
+  },
+  "mood_disgust": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 30,
+    "confused_with": {
+      "mood_unhappy": 10,
+      "mood_great": 8,
+      "greet": 5
+    }
+  },
+  "user_worry": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3,
+    "confused_with": {
+      "mood_unhappy": 2,
+      "mood_great": 1
+    }
+  },
+  "faq_mission_at_isro": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 21,
+    "confused_with": {
+      "affirm": 7,
+      "mood_unhappy": 4,
+      "mood_great": 3
+    }
+  },
+  "relationship_problems": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 8,
+    "confused_with": {
+      "mood_unhappy": 4,
+      "deny": 1,
+      "affirm": 1
+    }
+  },
+  "greet": {
+    "precision": 0.05138339920948617,
+    "recall": 1.0,
+    "f1-score": 0.09774436090225565,
+    "support": 13,
+    "confused_with": {}
+  },
+  "deny": {
+    "precision": 0.2608695652173913,
+    "recall": 0.7706422018348624,
+    "f1-score": 0.38979118329466356,
+    "support": 109,
+    "confused_with": {
+      "mood_unhappy": 15,
+      "greet": 5
+    }
+  },
+  "smalltalk_agent_chatbot": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 8,
+    "confused_with": {
+      "bot_challenge": 8
+    }
+  },
+  "bot_real": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 12,
+    "confused_with": {
+      "bot_challenge": 11,
+      "deny": 1
+    }
+  },
+  "smalltalk_agent_beautiful": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 55,
+    "confused_with": {
+      "bot_challenge": 32,
+      "mood_great": 13,
+      "goodbye": 4
+    }
+  },
+  "mental_illness_counsellor": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1,
+    "confused_with": {
+      "goodbye": 1
+    }
+  },
+  "self_harm": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2,
+    "confused_with": {
+      "mood_unhappy": 1,
+      "deny": 1
+    }
+  },
+  "bot_challenge": {
+    "precision": 0.10462776659959759,
+    "recall": 0.6341463414634146,
+    "f1-score": 0.17962003454231434,
+    "support": 82,
+    "confused_with": {
+      "deny": 13,
+      "greet": 8
+    }
+  },
+  "spotify": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3,
+    "confused_with": {
+      "mood_unhappy": 1,
+      "bot_challenge": 1,
+      "greet": 1
+    }
+  },
+  "faq_mission_at_nasa": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 31,
+    "confused_with": {
+      "mood_unhappy": 10,
+      "mood_great": 8,
+      "bot_challenge": 6
+    }
+  },
+  "request_weather": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2,
+    "confused_with": {
+      "greet": 2
+    }
+  },
+  "mental_health_lonely": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1,
+    "confused_with": {
+      "mood_unhappy": 1
+    }
+  },
+  "user_angry": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 40,
+    "confused_with": {
+      "mood_unhappy": 16,
+      "mood_great": 11,
+      "greet": 5
+    }
+  },
+  "haunting_past_problems": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3,
+    "confused_with": {
+      "mood_unhappy": 2,
+      "mood_great": 1
+    }
+  },
+  "jokes": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 12,
+    "confused_with": {
+      "mood_great": 5,
+      "greet": 4,
+      "bot_challenge": 2
+    }
+  },
+  "math_facts": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4,
+    "confused_with": {
+      "affirm": 2,
+      "mood_unhappy": 1,
+      "bot_challenge": 1
+    }
+  },
+  "early_signs": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 10,
+    "confused_with": {
+      "greet": 4,
+      "mood_great": 2,
+      "bot_challenge": 2
+    }
+  },
+  "mental_health_cure": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3,
+    "confused_with": {
+      "greet": 2,
+      "mood_unhappy": 1
+    }
+  },
+  "smalltalk_agent_answer_my_question": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 20,
+    "confused_with": {
+      "bot_challenge": 7,
+      "mood_unhappy": 5,
+      "deny": 3
+    }
+  },
+  "mental_health_illness_difference": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3,
+    "confused_with": {
+      "greet": 2,
+      "bot_challenge": 1
+    }
+  },
+  "faq_black_hole": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 25,
+    "confused_with": {
+      "greet": 7,
+      "bot_challenge": 7,
+      "mood_unhappy": 6
+    }
+  },
+  "medicines": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3,
+    "confused_with": {
+      "greet": 2,
+      "mood_unhappy": 1
+    }
+  },
+  "corona_intro": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 7,
+    "confused_with": {
+      "affirm": 5,
+      "greet": 1,
+      "bot_challenge": 1
+    }
+  },
+  "threat": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 7,
+    "confused_with": {
+      "greet": 3,
+      "deny": 1,
+      "mood_great": 1
+    }
+  },
+  "send_sms": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5,
+    "confused_with": {
+      "mood_unhappy": 2,
+      "bot_challenge": 2,
+      "mood_great": 1
+    }
+  },
+  "mental_illness_psychologist": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1,
+    "confused_with": {
+      "goodbye": 1
+    }
+  },
+  "confusion_problems": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2,
+    "confused_with": {
+      "deny": 2
+    }
+  },
+  "request_quote": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4,
+    "confused_with": {
+      "deny": 1,
+      "mood_unhappy": 1,
+      "greet": 1
+    }
+  },
+  "smalltalk_agent_boring": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 7,
+    "confused_with": {
+      "bot_challenge": 6,
+      "deny": 1
+    }
+  },
+  "bad": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 51,
+    "confused_with": {
+      "mood_unhappy": 37,
+      "deny": 12,
+      "mood_great": 1
+    }
+  },
+  "career_pressure_problems": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3,
+    "confused_with": {
+      "mood_great": 2,
+      "greet": 1
+    }
+  },
+  "no_problem": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 8,
+    "confused_with": {
+      "deny": 7,
+      "greet": 1
+    }
+  },
+  "corona_cases_info": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 42,
+    "confused_with": {
+      "mood_unhappy": 14,
+      "affirm": 9,
+      "deny": 8
+    }
+  },
+  "mood_unhappy": {
+    "precision": 0.14105793450881612,
+    "recall": 0.7368421052631579,
+    "f1-score": 0.2367864693446089,
+    "support": 76,
+    "confused_with": {
+      "deny": 12,
+      "mood_great": 5
+    }
+  },
+  "mental_health_intro": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3,
+    "confused_with": {
+      "greet": 2,
+      "bot_challenge": 1
+    }
+  },
+  "user_hobby_travelling": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5,
+    "confused_with": {
+      "deny": 2,
+      "affirm": 1,
+      "mood_unhappy": 1
+    }
+  },
+  "advice": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 24,
+    "confused_with": {
+      "goodbye": 12,
+      "bot_challenge": 4,
+      "mood_unhappy": 3
+    }
+  },
+  "mental_illness_profession": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1,
+    "confused_with": {
+      "affirm": 1
+    }
+  },
+  "road_accident": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 20,
+    "confused_with": {
+      "mood_unhappy": 6,
+      "bot_challenge": 5,
+      "greet": 5
+    }
+  },
+  "marry": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 9,
+    "confused_with": {
+      "bot_challenge": 4,
+      "mood_great": 2,
+      "mood_unhappy": 2
+    }
+  },
+  "smalltalk_agent_be_clever": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 9,
+    "confused_with": {
+      "mood_unhappy": 2,
+      "greet": 2,
+      "bot_challenge": 2
+    }
+  },
+  "help": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 39,
+    "confused_with": {
+      "greet": 18,
+      "bot_challenge": 15,
+      "mood_unhappy": 3
+    }
+  },
+  "unfair_treatment_problems": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3,
+    "confused_with": {
+      "mood_great": 2,
+      "mood_unhappy": 1
+    }
+  },
+  "mood_anger": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 85,
+    "confused_with": {
+      "bot_challenge": 41,
+      "mood_unhappy": 10,
+      "deny": 8
+    }
+  },
+  "bot_origin": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 11,
+    "confused_with": {
+      "greet": 4,
+      "affirm": 3,
+      "bot_challenge": 3
+    }
+  },
+  "corona_distance": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 8,
+    "confused_with": {
+      "mood_unhappy": 4,
+      "mood_great": 2,
+      "bot_challenge": 2
+    }
+  },
+  "corona_state": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 36,
+    "confused_with": {
+      "mood_unhappy": 10,
+      "affirm": 7,
+      "deny": 6
+    }
+  },
+  "hello_world": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3,
+    "confused_with": {
+      "greet": 2,
+      "mood_great": 1
+    }
+  },
+  "user_bored": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 28,
+    "confused_with": {
+      "mood_unhappy": 8,
+      "bot_challenge": 7,
+      "greet": 5
+    }
+  },
+  "faq_astronomy": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 13,
+    "confused_with": {
+      "mood_unhappy": 8,
+      "affirm": 3,
+      "deny": 1
+    }
+  },
+  "smalltalk_agent_age": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 9,
+    "confused_with": {
+      "bot_challenge": 4,
+      "affirm": 2,
+      "deny": 1
+    }
+  },
+  "ask_exercise": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 6,
+    "confused_with": {
+      "affirm": 2,
+      "mood_great": 2,
+      "mood_unhappy": 1
+    }
+  },
+  "mental_health_adults": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1,
+    "confused_with": {
+      "greet": 1
+    }
+  },
+  "mental_illness_known": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2,
+    "confused_with": {
+      "mood_great": 1,
+      "mood_unhappy": 1
+    }
+  },
+  "ask_eat_healthy": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5,
+    "confused_with": {
+      "greet": 4,
+      "affirm": 1
+    }
+  },
+  "mental_illness_causes": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3,
+    "confused_with": {
+      "affirm": 3
+    }
+  },
+  "mental_health_distraction": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1,
+    "confused_with": {
+      "mood_great": 1
+    }
+  },
+  "wow": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5,
+    "confused_with": {
+      "mood_great": 5
+    }
+  },
+  "faq_planets": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 27,
+    "confused_with": {
+      "deny": 8,
+      "affirm": 8,
+      "mood_unhappy": 5
+    }
+  },
+  "out_of_scope": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 17,
+    "confused_with": {
+      "deny": 7,
+      "bot_challenge": 4,
+      "mood_great": 3
+    }
+  },
+  "corona_symptoms": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5,
+    "confused_with": {
+      "bot_challenge": 2,
+      "affirm": 1,
+      "mood_great": 1
+    }
+  },
+  "mental_illness_intro": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3,
+    "confused_with": {
+      "bot_challenge": 2,
+      "deny": 1
+    }
+  },
+  "mental_illness_professional": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5,
+    "confused_with": {
+      "greet": 4,
+      "bot_challenge": 1
+    }
+  },
+  "insult": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 19,
+    "confused_with": {
+      "bot_challenge": 16,
+      "goodbye": 2,
+      "deny": 1
+    }
+  },
+  "mental_illness_recovery": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3,
+    "confused_with": {
+      "deny": 2,
+      "mood_unhappy": 1
+    }
+  },
+  "mental_illness_medication_payment": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3,
+    "confused_with": {
+      "greet": 2,
+      "bot_challenge": 1
+    }
+  },
+  "swear": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 11,
+    "confused_with": {
+      "mood_unhappy": 4,
+      "greet": 4,
+      "goodbye": 2
+    }
+  },
+  "warm_weather": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4,
+    "confused_with": {
+      "mood_great": 3,
+      "affirm": 1
+    }
+  },
+  "request_fun_fact": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 6,
+    "confused_with": {
+      "mood_great": 3,
+      "bot_challenge": 2,
+      "affirm": 1
+    }
+  },
+  "smart": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 43,
+    "confused_with": {
+      "bot_challenge": 27,
+      "deny": 6,
+      "mood_unhappy": 3
+    }
+  },
+  "mental_illness_psychiatrist": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1,
+    "confused_with": {
+      "mood_unhappy": 1
+    }
+  },
+  "smalltalk_agent_boss": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 6,
+    "confused_with": {
+      "deny": 2,
+      "bot_challenge": 2,
+      "mood_great": 1
+    }
+  },
+  "wrongreply": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 24,
+    "confused_with": {
+      "deny": 11,
+      "greet": 6,
+      "bot_challenge": 4
+    }
+  },
+  "confess": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3,
+    "confused_with": {
+      "mood_great": 2,
+      "greet": 1
+    }
+  },
+  "suicide": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1,
+    "confused_with": {
+      "bot_challenge": 1
+    }
+  },
+  "life": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5,
+    "confused_with": {
+      "greet": 3,
+      "deny": 1,
+      "bot_challenge": 1
+    }
+  },
+  "faq_star_and_galaxies": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 16,
+    "confused_with": {
+      "affirm": 4,
+      "mood_great": 4,
+      "mood_unhappy": 3
+    }
+  },
+  "corona_food_spread": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4,
+    "confused_with": {
+      "mood_unhappy": 4
+    }
+  },
+  "day_facts": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4,
+    "confused_with": {
+      "affirm": 2,
+      "deny": 1,
+      "mood_unhappy": 1
+    }
+  },
+  "appreciate": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5,
+    "confused_with": {
+      "affirm": 2,
+      "deny": 1,
+      "mood_great": 1
+    }
+  },
+  "mental_illness_affect": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3,
+    "confused_with": {
+      "greet": 3
+    }
+  },
+  "accuracy": 0.1469035045607297,
+  "macro avg": {
+    "precision": 0.007823255149434195,
+    "recall": 0.03469155650648283,
+    "f1-score": 0.012232435501711695,
+    "support": 2083
+  },
+  "weighted avg": {
+    "precision": 0.03847443659937824,
+    "recall": 0.1469035045607297,
+    "f1-score": 0.05957623475650243,
+    "support": 2083
+  },
+  "micro avg": {
+    "precision": 0.1469035045607297,
+    "recall": 0.1469035045607297,
+    "f1-score": 0.1469035045607297,
+    "support": 2083
+  }
+}
