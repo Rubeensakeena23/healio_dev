@@ -1,5 +1,5 @@
 import './chatBot.css';
-import react, { useEffect, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import {IoMdSend}  from 'react-icons/io';
 import {BiBot,BiUser} from 'react-icons/bi';
 
@@ -23,7 +23,7 @@ function Basic(){
 
     const handleSubmit=(evt)=>{
         evt.preventDefault();
-        const name = "shreyas";
+        const name = "healio";
         const request_temp = {sender : "user", sender_id : name , msg : inputMessage};
         
         if(inputMessage !== ""){
