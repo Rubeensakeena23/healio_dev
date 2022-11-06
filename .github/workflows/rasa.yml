@@ -14,8 +14,10 @@ jobs:
           requirements_file: requirements.txt
           data_validate: true
           rasa_train: true
+          cross_validation: true
           rasa_test: true
           test_type: all
           publish_summary: true
+          github_token: ${{ secrets.TOKEN_TOKEN }}
 
       
