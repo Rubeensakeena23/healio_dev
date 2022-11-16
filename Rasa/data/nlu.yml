@@ -8,14 +8,6 @@ nlu:
     - hi
     - hello there
     - good morning
-    - good evening
-    - moin
-    - hey there
-    - let's go
-    - hey dude
-    - goodmorning
-    - goodevening
-    - good afternoon
 
 - intent: goodbye
   examples: |
@@ -41,8 +33,6 @@ nlu:
 
 - intent: deny
   examples: |
-    - no
-    - n
     - never
     - I don't think so
     - don't like that
