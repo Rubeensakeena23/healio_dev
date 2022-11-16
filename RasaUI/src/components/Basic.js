@@ -1,7 +1,7 @@
 import './chatBot.css';
 import React, { useEffect, useState } from 'react';
-import {IoMdSend}  from 'react-icons/io';
-import {BiBot,BiUser} from 'react-icons/bi';
+import {BiUser, BiSend} from 'react-icons/bi';
+import { AiOutlineAliwangwang} from "react-icons/ai";
 
 function Basic(){
     const [chat,setChat] = useState([]);
@@ -76,35 +76,28 @@ function Basic(){
     console.log(chat);
 
     const stylecard = {
-        maxWidth : '35rem',
-        border: '1px solid black',
+        maxWidth : '40rem',
         paddingLeft: '0px',
         paddingRight: '0px',
         borderRadius: '30px',
-        boxShadow: '0 16px 20px 0 rgba(0,0,0,0.4)'
-
+        boxShadow: '0px 7px 29px 0px rgba(100, 100, 111, 0.2)'
     }
     const styleHeader = {
         height: '4.5rem',
-        borderBottom : '1px solid black',
         borderRadius: '30px 30px 0px 0px',
-        backgroundColor: '#8012c4',
+        backgroundColor: '#F2D1D1',
 
     }
     const styleFooter = {
         //maxWidth : '32rem',
-        borderTop : '1px solid black',
         borderRadius: '0px 0px 30px 30px',
-        backgroundColor: '#8012c4',
-        
-        
+        backgroundColor: '#F2D1D1',
     }
     const styleBody = {
         paddingTop : '10px',
         height: '28rem',
         overflowY: 'a',
         overflowX: 'hidden',
-        
     }
 
     return (
@@ -117,7 +110,7 @@ function Basic(){
             
                 <div className="card" style={stylecard}>
                     <div className="cardHeader text-white" style={styleHeader}>
-                        <h1 style={{marginBottom:'0px'}}>AI Assistant</h1>
+                        <h1 style={{marginBottom:'0px'}}>Talk to me here!</h1>
                         {botTyping ? <h6>Bot Typing....</h6> : null}
                         
                         
@@ -132,7 +125,7 @@ function Basic(){
                                         (
                                             
                                             <div className= 'msgalignstart'>
-                                                <BiBot className="botIcon"  /><h5 className="botmsg">{user.msg}</h5>
+                                                <AiOutlineAliwangwang className="botIcon"  /><h5 className="botmsg">{user.msg}</h5>
                                             </div>
                                         
                                         )
@@ -156,7 +149,7 @@ function Basic(){
                                     <input onChange={e => setInputMessage(e.target.value)} value={inputMessage} type="text" className="msginp"></input>
                                 </div>
                                 <div className="col-2 cola">
-                                    <button type="submit" className="circleBtn" ><IoMdSend className="sendBtn" /></button>
+                                    <button type="submit" className="circleBtn" ><BiSend className="sendBtn" /></button>
                                 </div>
                             </form>
                         </div>

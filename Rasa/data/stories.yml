@@ -1,4 +1,4 @@
-version: "3.0"
+version: "3.1"
 
 stories:
 
@@ -15,6 +15,7 @@ stories:
   - action: utter_greet
   - intent: mood_unhappy
   - action: utter_cheer_up
+  - action: utter_did_that_help
   - intent: affirm
   - action: utter_happy
 
@@ -24,30 +25,6 @@ stories:
   - action: utter_greet
   - intent: mood_unhappy
   - action: utter_cheer_up
+  - action: utter_did_that_help
   - intent: deny
   - action: utter_goodbye
-
-- story: say author
-  steps:
-  - intent: author
-  - action: utter_author
-
-- story: anxiety path
-  steps:
-  - intent: mood_anxiety
-  - action: utter_anxiety
-
-- story: depression path
-  steps:
-  - intent: mood_depression
-  - action: utter_depression
-
-- story: Wrong reply
-  steps:
-  - intent: wrongreply
-  - action: utter_wrongreply
-
-- story: Fear path
-  steps:
-  - intent: mood_fear
-  - action: utter_fear

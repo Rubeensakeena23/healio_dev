@@ -1,4 +1,4 @@
-version: "3.0"
+version: "3.1"
 
 intents:
   - greet
@@ -8,43 +8,26 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
-  - author
-  - mood_anxiety
-  - mood_depression
-  - mood_fear
-  - wrongreply
 
 responses:
   utter_greet:
-  - text: "Hey! I am Healio!"
+  - text: "Hey! How are you?"
 
   utter_cheer_up:
-  - text: "What can i do for you"
-    
+  - text: "Here is something to cheer you up:"
+    image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+
   utter_happy:
   - text: "Great, carry on!"
 
   utter_goodbye:
-  - text: "Bye. We'll talk again!"
+  - text: "Bye"
 
   utter_iamabot:
-  - text: "I am a bot, my name is Healio."
-
-  utter_author:
-  - text: "I was created by Rubeen."
-
-  utter_anxiety:
-  - text: "I'm always here if you need to talk. Tell me more."
-
-  utter_depression:
-  - text: "Do you want to talk about it? I'm here when you're ready."
-
-  utter_fear:
-  - text: "What makes you feel that way?"
-
-  utter_wrongreply:
-  - text: "I'm sorry, could we start again please?"
-
+  - text: "I am a bot, powered by Rasa."
 
 session_config:
   session_expiration_time: 60

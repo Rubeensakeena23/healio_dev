@@ -4,7 +4,7 @@
     border-radius:  50%;
     margin: 5px;
     border: none;
-    background-color: rgb(11, 252, 31);
+    background-color: #f4f3f3;
 
 }
 
@@ -37,7 +37,7 @@
 }
 
 .botmsg{
-    background-color: rgb(205, 173, 241);
+    background-color: #C6DCE4;
     padding-left: 15px;
     padding-right: 15px;
     height:auto;
@@ -49,7 +49,7 @@
 }
 
 .usermsg{
-    background-color: rgb(235, 220, 252);
+    background-color: #DAEAF1;
     padding-left: 15px;
     padding-right: 15px;
     height:auto;
@@ -74,13 +74,13 @@
    
   /* Handle */
   ::-webkit-scrollbar-thumb {
-    background: rgb(140, 27, 185); 
+    background: #CDF0EA; 
     border-radius: 10px;
   }
   
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: #b909e6; 
+    background: #CDF0EA; 
   }
 
 .botIcon{
